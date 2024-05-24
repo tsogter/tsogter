@@ -1,0 +1,1 @@
+alert("The product keys are RW9MG-QR4G3-2WRR9-TG7BH-33GXB and RC7JH-VTKHG-RVKWJ-HBC3T-FWGBG")
